@@ -1,0 +1,3 @@
+== README
+
+a rails app for wechat
