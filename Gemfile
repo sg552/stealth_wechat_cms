@@ -11,6 +11,7 @@ gem "rails_config", '0.3.2'
 gem 'coffeebeans', '1.0.1'
 gem 'httparty'
 gem 'thin'
+gem "wechat-rails", git:"https://github.com/skinnyworm/wechat-rails"
 
 group :test, :development do
   gem "rspec-rails", ">= 2.5.0"
