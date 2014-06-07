@@ -12,6 +12,7 @@ gem 'coffeebeans', '1.0.1'
 gem 'httparty'
 gem 'thin'
 gem "wechat-rails", git:"https://github.com/skinnyworm/wechat-rails"
+gem 'therubyracer', platforms: :ruby
 
 group :test, :development do
   gem "rspec-rails", ">= 2.5.0"
